@@ -1,2 +1,2 @@
 # tinyone
-live link : https://abdullahalraju858.github.io/tinyone/
+live link : https://abdullahalraju60.github.io/tinyone/
